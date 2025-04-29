@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Let's Connect
-Feel free to check out my projects or reach out for collaboration.
+Feel free to reach out to me at
 **dfua@proton.me**
 
 <h3 align="left">Connect with me:</h3>
