@@ -21,12 +21,7 @@
 
 ---
 
-### 📈 Quant Roadmap
 > Math. Code. Markets. Repeat.
-
-- Math: Calculus, Linear Algebra, Probability, Stochastic Calculus  
-- Programming: Python (NumPy, pandas), C++ (next), Backtesting tools, Machine Learning  
-- Finance: Derivatives, Risk-neutral Pricing, Portfolio Optimization
 
 ---
 
