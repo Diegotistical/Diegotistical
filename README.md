@@ -1,6 +1,6 @@
 # Diego Urdaneta
 
-📍 Accounting & Finance Student | Aspiring Quant  
+📍 Accounting & Finance Student 
 🎯 Transitioning into Quantitative Finance & Financial Engineering
 
 ---
@@ -9,12 +9,13 @@
 - Undergraduate at Universidad de La Laguna (Spain)  
 - Self-learning Python, C++, and advanced math for Quant Finance  
 - Focused on derivatives pricing, Monte Carlo methods, and algorithmic strategies  
-- Interested in High-Frequency Trading, market microstructure, and volatility modeling
+- Interested in HFT, Market microstructure, and volatility modeling
 
 ---
 
 ### 🔧 Currently Working On
-- Implementing Black-Scholes & Greeks in Python  
+- Implementing Black-Scholes & Greeks in Python
+- Applying Machine Learning to my projects (PyTorch) 
 - Studying stochastic calculus (Shreve) and linear algebra (Axler)  
 - Backtesting systematic strategies using real market data  
 - Preparing for future graduate studies in Financial Engineering
