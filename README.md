@@ -1,6 +1,7 @@
 # Diego Urdaneta
 
-📍 Accounting & Finance Student 
+📍 Accounting & Finance Student
+
 🎯 Transitioning into Quantitative Finance & Financial Engineering
 
 ---
