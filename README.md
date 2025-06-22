@@ -2,7 +2,7 @@
 
 📍 Accounting & Finance Student
 
-🎯 Transitioning into Quantitative Finance & Financial Engineering
+🎯 Transitioning into Quantitative Finance and Financial Engineering
 
 ---
 
