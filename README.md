@@ -2,7 +2,7 @@
 
 📍 Accounting & Finance Student
 
-🎯 Transitioning into Quantitative Finance and Financial Engineering
+🎯 Transitioning into Quantitative Finance & Financial Engineering
 
 ---
 
@@ -17,7 +17,7 @@
 ### 🔧 Currently Working On
 - Implementing Black-Scholes & Greeks in Python
 - Applying Machine Learning to my projects (PyTorch) 
-- Studying stochastic calculus (Shreve) and linear algebra (Axler)  
+- Studying Calculus and Multivariable Calculus (MIT OCW)  
 - Backtesting systematic strategies using real market data  
 - Preparing for future graduate studies in Financial Engineering
 
