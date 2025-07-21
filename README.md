@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - Undergraduate at Universidad de La Laguna (Spain)  
 - Self-learning Python, C++, and advanced math for Quant Finance  
 - Focused on derivatives pricing, Monte Carlo methods, and algorithmic strategies  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🔧 Currently Working On
+### Currently Working On
 - Implementing Black-Scholes & Greeks in Python
 - Applying Machine Learning to my projects (PyTorch) 
 - Studying Calculus and Multivariable Calculus (MIT OCW)  
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 Feel free to reach out to me at
 **dfua@proton.me**
 
