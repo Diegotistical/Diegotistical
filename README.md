@@ -17,9 +17,7 @@ Transitioning into Quantitative Finance & Financial Engineering
 ---
 
 ### Currently Working On
-- Implementing Black-Scholes & Greeks in Python
-- Applying Machine Learning to my projects (PyTorch) 
-- Studying Calculus and Multivariable Calculus (MIT OCW)  
+- Applying Machine Learning to my projects (PyTorch)   
 - Backtesting systematic strategies using real market data  
 - Preparing for future graduate studies in Financial Engineering
 
