@@ -10,9 +10,8 @@ Transitioning into Quantitative Finance & Financial Engineering
 
 ### About Me
 - Undergraduate at Universidad de La Laguna (Spain)  
-- Self-learning Python, C++, and advanced math for Quant Finance  
-- Focused on derivatives pricing, Monte Carlo methods, and algorithmic strategies  
-- Interested in HFT, Market microstructure, and volatility modeling
+- Self-learning Python, C++, and math for Quant Finance    
+- Interested in HFT, Market microstructure, ML and volatility modeling
 
 ---
 
