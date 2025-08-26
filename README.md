@@ -18,7 +18,7 @@ Transitioning into Quantitative Finance & Financial Engineering
 ### Currently Working On
 - Applying Machine Learning to my projects (PyTorch)   
 - Backtesting systematic strategies using real market data  
-- Preparing for future graduate studies in Financial Engineering
+- Preparing for Master's in Financial Engineering / Statistics
 
 ---
 
