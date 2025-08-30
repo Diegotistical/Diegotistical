@@ -4,8 +4,6 @@ Accounting & Finance Student
 
 Quantitative Researcher @ Stealth
 
-Transitioning into Quantitative Finance & Financial Engineering
-
 ---
 
 ### About Me
