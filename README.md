@@ -8,8 +8,8 @@ Quantitative Researcher @ Stealth
 
 ### About Me
 - Undergraduate at Universidad de La Laguna (Spain)  
-- Self-learning Python, C++, and math for Quant Finance    
-- Interested in HFT, Market microstructure, ML and volatility modeling
+- Learning Python, C++, and Math for Quant Finance    
+- Interested in HFT, Market Microstructure, ML and Volatility Modeling
 
 ---
 
