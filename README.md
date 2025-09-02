@@ -26,7 +26,7 @@ Quantitative Researcher @ Stealth
 
 ### Let's Connect
 Feel free to reach out to me at
-**dfua@proton.me**
+**diego@achong.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
