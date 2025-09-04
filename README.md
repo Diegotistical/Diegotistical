@@ -20,7 +20,7 @@ Quantitative Researcher @ Stealth
 
 ---
 
-> Math. Code. Markets. Repeat.
+> Math. Code. Markets.
 
 ---
 
