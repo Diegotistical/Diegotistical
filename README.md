@@ -2,7 +2,7 @@
 
 Accounting & Finance Student 
 
-Quantitative Researcher @ Stealth
+Quantitative Researcher Intern @ Stealth
 
 ---
 
