@@ -14,8 +14,6 @@ Quantitative Researcher Intern @ Stealth
 ---
 
 ### Currently Working On
-- Applying Machine Learning to my projects (PyTorch)   
-- Backtesting systematic strategies using real market data  
 - Preparing for Master's in Financial Engineering / Statistics
 
 ---
