@@ -14,7 +14,7 @@ Quantitative Researcher Intern @ Stealth
 ---
 
 ### Currently Working On
-- Preparing for Master's in Financial Engineering / Statistics
+- Preparing for Graduate School
 
 ---
 
