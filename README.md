@@ -1,8 +1,6 @@
 # Diego Urdaneta
 
-Accounting & Finance Student 
-
-Quantitative Researcher Intern @ Stealth
+Accounting & Finance Student
 
 ---
 
