@@ -1,12 +1,13 @@
 # Diego Urdaneta
 
-Accounting & Finance Student
+- M2 Research QR / Co-Founder
+- Accounting & Finance Student
 
 ---
 
 ### About Me
 - Undergraduate at Universidad de La Laguna (Spain)  
-- Learning Python, C++, and Math for Quant Finance    
+- Learning Low-latency C++ systems and Math    
 - Interested in HFT, Market Microstructure, ML and Volatility Modeling
 
 ---
