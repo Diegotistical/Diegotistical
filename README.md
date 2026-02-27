@@ -1,6 +1,5 @@
 # Diego Urdaneta
 
-- M2 Research QR / Co-Founder
 - Accounting & Finance Student
 
 ---
