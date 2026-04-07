@@ -11,11 +11,6 @@
 
 ---
 
-### Currently Working On
-- Preparing for Graduate School
-
----
-
 > Math. Code. Markets.
 
 ---
